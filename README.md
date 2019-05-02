@@ -1,0 +1,2 @@
+# Prediction-of-House-Price-using-Decision-Tree
+n this project, I developed and evaluated the performance and the predictive power of a model trained and tested on data collected from houses in Melbourne.  Once I got a good fit, I used this model to predict the monetary value of a house located at the Melbourne’s area.  A model like this would be very valuable for a real state agent who could make use of the information provided in a daily basis.
